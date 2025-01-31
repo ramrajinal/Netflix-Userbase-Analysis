@@ -26,14 +26,14 @@ The dataset includes the following key columns:
 - **Matplotlib & Seaborn**: Data visualization.
 
 ## Analysis Highlights
-- **Subscription distribution among users.
-Revenue patterns based on user demographics.
-Impact of tenure on subscription type.
-Popular devices used for streaming.
-Results & Insights
-Premium plans generate the highest revenue but have lower retention rates.
-Age & country distribution play a key role in subscription choices.
-Mobile devices dominate among younger users, while older users prefer smart TVs.
+- Subscription distribution among users.
+- Revenue patterns based on user demographics.
+- Impact of tenure on subscription type.
+- Popular devices used for streaming.
+## Results & Insights
+- Premium plans generate the highest revenue but have lower retention rates.
+- Age & country distribution play a key role in subscription choices.
+- Mobile devices dominate among younger users, while older users prefer smart TVs.
 
 
 
