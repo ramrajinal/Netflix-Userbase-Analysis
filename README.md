@@ -33,7 +33,7 @@ The dataset includes the following key columns:
 ## Results & Insights
 - Premium plans generate the highest revenue but have lower retention rates.
 - Age & country distribution play a key role in subscription choices.
-- Mobile devices dominate among younger users, while older users prefer smart TVs.
+  
 
 
 
